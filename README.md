@@ -58,7 +58,7 @@ To get started:
 
 ## Screenshot
 
-![Home Page](![Screenshot (36)](https://github.com/user-attachments/assets/2bf61c07-ad32-4287-9cd9-f0873118524d))
+![Screenshot (36)](https://github.com/user-attachments/assets/2bf61c07-ad32-4287-9cd9-f0873118524d)
 
 
 ## Contributing
